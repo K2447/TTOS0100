@@ -1,6 +1,6 @@
 # TTOS0100
 ## Ohjelmistosuunnittelu ja -testaus
-![](https://www.google.fi/search?q=memes&espv=2&biw=1680&bih=944&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQyoiZtM7RAhUJhSwKHVFCBlkQ_AUIBigB#tbm=isch&q=suomi+memes&imgrc=PA9iY9vnq9gvUM%3A.jpg)
+![](https://s-media-cache-ak0.pinimg.com/236x/5c/ac/93/5cac93a1efd79e2b7053d6afe9cd7cb6.jpg)
 ### AsD ###
 [Kurssin etusivut](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki)
 
